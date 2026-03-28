@@ -52,6 +52,8 @@ for i in range(n-2,-1,-1):
 for i in range(n):
     print('X%d = %0.2f' %(i,x[i]),end=" ")
 
+![WhatsApp Image 2026-03-28 at 8 00 17 AM](https://github.com/user-attachments/assets/4a64675c-70ac-4304-93fb-6c122b583eda)
+
 ## Output:
 <img width="1186" height="583" alt="image" src="https://github.com/user-attachments/assets/d648f7e6-7bd5-4c19-8376-bcd59f9e6999" />
 
